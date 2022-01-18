@@ -3,5 +3,4 @@
 - Use for automated CI / CD pipleline
 - Use for Docker image creation
 - Use for Dcoker pipeline creation
-
-
+- Used for automatic build using Jenkins
